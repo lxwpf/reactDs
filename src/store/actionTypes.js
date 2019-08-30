@@ -1,0 +1,1 @@
+export const MENU_ITEM_CLICK_TAG_ACTION = "menu_item_click_tag_action";
